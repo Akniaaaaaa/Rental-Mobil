@@ -1,0 +1,10 @@
+/* //navbar */
+.navbar-brand {
+    font-family: Viga;
+    font-size: 32px;
+
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
